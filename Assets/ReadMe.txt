@@ -1,0 +1,1 @@
+Bugs: Al reiniciar la escena surgen problemas con la inicializacion del nav mesh y encadena errores que impiden jugar
